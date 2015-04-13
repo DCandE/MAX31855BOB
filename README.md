@@ -20,6 +20,7 @@ or
 1x - PCC-SMP-(K), mini type-k connector (thermocouple port: t+, t-)
 
 
-NOTES: 3D file is a sketchup document
+NOTES: 3D file is a sketchup document can also be found here
+https://3dwarehouse.sketchup.com/model.html?id=de04b721ec2f24d64aee4ac71b809db2
 
 - 
